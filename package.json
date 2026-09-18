@@ -1,0 +1,7 @@
+{
+  "name": "savior-sarah-github-io",
+  "private": true,
+  "scripts": {
+    "test": "node --test tests/site.test.mjs"
+  }
+}

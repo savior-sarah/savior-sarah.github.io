@@ -1,0 +1,8 @@
+.superpowers/
+.worktrees/
+rendercv_output/
+mycv.yaml
+checks.json
+photo.jpg
+.DS_Store
+Thumbs.db
